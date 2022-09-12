@@ -1,3 +1,9 @@
 def code(name):
   print("Hi "+name, "Congratulations") 
 code("Mahesh")
+
+def count():
+  x=input("Enter the first value :")
+  y=input("Enter the second value :")
+  print("The Sum of two numbers are: ",x+y) # This function only combining the value not adding. If we want to add the values we enter "int" in front of "input"
+count
