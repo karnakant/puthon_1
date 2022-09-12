@@ -1,0 +1,3 @@
+def code(name):
+  print("Hi "+name, "Congratulations") 
+code("Mahesh")
